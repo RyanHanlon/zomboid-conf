@@ -407,7 +407,7 @@ SandboxVars = {
     -- Chance of being bitten when a zombie attacks from behind. Default=High
     -- 1 = Low
     -- 2 = Medium
-    RearVulnerability = 3,
+    RearVulnerability = 2,
     -- Disable to walk unimpeded while melee attacking.
     AttackBlockMovements = true,
     AllClothesUnlocked = false,
